@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Visitor Management System\\wwwroot\\CredentialPictures\\Host2.jpg",
+      "PackagePath": "staticwebassets\\CredentialPictures\\Host2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Visitor Management System\\wwwroot\\CredentialPictures\\Host3.jpg",
+      "PackagePath": "staticwebassets\\CredentialPictures\\Host3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Visitor Management System\\wwwroot\\CredentialPictures\\IMG_20210116_125538_665.jpg",
+      "PackagePath": "staticwebassets\\CredentialPictures\\IMG_20210116_125538_665.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Visitor Management System\\wwwroot\\CredentialPictures\\WIN_20231222_11_25_44_Pro.jpg",
+      "PackagePath": "staticwebassets\\CredentialPictures\\WIN_20231222_11_25_44_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Visitor Management System\\wwwroot\\QRcodes\\b3dad28b-f1f0-42c0-ab1d-0c6e1665db19_QRCode.png",
+      "PackagePath": "staticwebassets\\QRcodes\\b3dad28b-f1f0-42c0-ab1d-0c6e1665db19_QRCode.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Visitor Management System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Visitor Management System.props",
+      "PackagePath": "build\\Visitor Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Visitor Management System.props",
+      "PackagePath": "buildMultiTargeting\\Visitor Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Visitor Management System.props",
+      "PackagePath": "buildTransitive\\Visitor Management System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
